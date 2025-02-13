@@ -1,19 +1,19 @@
 {
-  "name": "typescript-starter",
+  "name": "prosemirror-markdown",
   "type": "module",
   "version": "0.0.0",
   "private": false,
-  "description": "A typescript project startup template",
+  "description": "A prosemirror/tiptap extension for markdown",
   "author": "litingyes <luz.liting@gmail.com> (https://litingyes.top/)",
   "license": "MIT",
-  "homepage": "https://github.com/litingyes/typescript-starter#readme",
+  "homepage": "https://github.com/litingyes/prosemirror-mark#readme",
   "bugs": {
-    "url": "https://github.com/litingyes/typescript-starter/issues"
+    "url": "https://github.com/litingyes/prosemirror-mark/issues"
   },
   "keywords": [
-    "typescript",
-    "template",
-    "starter"
+    "prosemirror",
+    "tiptap",
+    "markdown"
   ],
   "exports": {
     ".": {
