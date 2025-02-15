@@ -1,3 +1,3 @@
-# prosemirror-markdown
+# tiptap-md
 
-A prosemirror/tiptap extension for markdown
+A tiptap extension for markdown

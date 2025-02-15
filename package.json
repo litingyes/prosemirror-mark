@@ -1,9 +1,9 @@
 {
-  "name": "prosemirror-markdown",
+  "name": "tiptap-md",
   "type": "module",
   "version": "0.0.0",
   "private": false,
-  "description": "A prosemirror/tiptap extension for markdown",
+  "description": "A tiptap extension for markdown",
   "author": "litingyes <luz.liting@gmail.com> (https://litingyes.top/)",
   "license": "MIT",
   "homepage": "https://github.com/litingyes/prosemirror-mark#readme",
