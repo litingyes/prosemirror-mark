@@ -40,11 +40,22 @@
     "release": "bumpp && npm publish",
     "prepare": "husky"
   },
+  "peerDependencies": {
+    "@tiptap/core": "^2"
+  },
+  "dependencies": {
+    "remark-gfm": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "unified": "^11.0.5",
+    "unist-util-remove": "^4.0.0",
+    "unist-util-visit": "^5.0.0"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^3.14.0",
     "@commitlint/cli": "^19.6.1",
     "@commitlint/config-conventional": "^19.6.0",
     "@commitlint/cz-commitlint": "^19.6.1",
+    "@types/mdast": "^4.0.4",
     "@types/node": "22",
     "bumpp": "^9.10.2",
     "commitizen": "^4.3.1",
