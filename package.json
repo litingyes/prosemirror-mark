@@ -1,7 +1,7 @@
 {
   "name": "tiptap-md",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "A tiptap extension for markdown",
   "author": "litingyes <luz.liting@gmail.com> (https://litingyes.top/)",
